@@ -1,0 +1,1 @@
+This doc should desribes what this projects does, how to contribute to it, etc.
